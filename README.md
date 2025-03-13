@@ -26,6 +26,8 @@ This application scans the commits of a GitHub repository to find secrets
    npm run start:server
    ```
 
+5. check report.txt
+
 **Example Usage:**
 
 - Start the scanner

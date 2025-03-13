@@ -109,8 +109,8 @@ async function main() {
     
             const linkHeader = headers['link'];
             hasNextPage = linkHeader && linkHeader.includes('rel="next"') ? true : false;
-      
-        } 
+        }
+        console.log('Done!');
     } catch (error) {
         console.error("Error fetching commits:", error instanceof Error ? error.message : error);
     }
