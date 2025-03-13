@@ -1,4 +1,4 @@
-# Nokod
+# Entro
 
 This application scans the commits of a GitHub repository to find secrets
 
